@@ -39,7 +39,7 @@ This repository is built upon the original [3D Gaussian Splatting](https://githu
 
 ```bash
 # Clone the repository
-git clone --recursive [https://github.com/YOUR-USERNAME/Semantic-Gaussian-Edit.git](https://github.com/YOUR-USERNAME/Semantic-Gaussian-Edit.git)
+git clone --recursive [https://github.com/ArthurgLeonida/Semantic-Gaussian-Edit.git](https://github.com/ArthurgLeonida/Semantic-Gaussian-Edit.git)
 cd Semantic-Gaussian-Edit
 
 # Create the environment
@@ -48,6 +48,7 @@ conda activate gaussian_splatting
 
 # Install submodules
 pip install -r requirements.txt
+```
 
 ## 🚀 Usage
 
